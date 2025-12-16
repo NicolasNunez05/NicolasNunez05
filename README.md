@@ -44,14 +44,6 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasNunez05&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNunez05&layout=compact&theme=radical)
-
----
-
 ## 🎓 Educación & Certificaciones
 
 🎓 **Ingeniero en Conectividad y Redes** - DuocUC Viña del Mar (2025)  
@@ -68,5 +60,6 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 
 ---
 
-![Tetris Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
 
+💡 **"Construyendo infraestructuras cloud que escalan y resuelven problemas reales"**
