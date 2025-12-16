@@ -60,6 +60,3 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
-
-💡 **"Construyendo infraestructuras cloud que escalan y resuelven problemas reales"**
