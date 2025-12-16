@@ -1,10 +1,9 @@
-# ✨ ¡Hola! Soy Nicolás Núñez
+# 🚀 Cloud Engineer | AWS Solutions Architect | Infrastructure as Code Specialist
 
-### 🚀 Cloud Engineer | AWS Solutions Architect (en progreso) | Infrastructure as Code Specialist
+### Soy Nicolás Núñez
 
-Soy Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquitectura cloud AWS** y **automatización de infraestructura**. Me apasiona diseñar soluciones escalables, seguras y optimizadas que agreguen valor real al negocio.
+Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquitectura cloud AWS** y **automatización de infraestructura**. Me apasiona diseñar soluciones escalables, seguras y optimizadas que agreguen valor real al negocio.
 
-🔧 **Actualmente trabajando en:** Automatización empresarial y preparando mi certificación AWS Solutions Architect Associate  
 🌱 **Aprendiendo:** Ciberseguridad, Kali Linux y arquitecturas serverless avanzadas  
 💼 **Buscando:** Roles de Cloud Engineer o DevOps donde pueda seguir creciendo y aplicar mi conocimiento técnico  
 📧 **Contáctame:** [nicolasnunezalvarez05@gmail.com](mailto:nicolasnunezalvarez05@gmail.com)
@@ -63,10 +62,11 @@ Soy Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arq
 
 ## 🌐 Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-núñez-álvarez-35ba661ba/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasnunezalvarez05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasNunez05)
 
 ---
 
-💡 **"Construyendo infraestructuras cloud que escalan y resuelven problemas reales"**
+![Tetris Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
