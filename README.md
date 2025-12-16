@@ -10,22 +10,26 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 
 ---
 
-## 🛠️ Stack Técnico
+## 🛠️ Habilidades:
 
-### ☁️ Cloud & AWS
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/>
+</p>
 
-**Servicios AWS:** EC2 • VPC • S3 • IAM • Lambda • RDS • Security Groups • CloudFormation • AWS CLI
+## 🌐 Puedes encontrarme en:
 
-### 🌐 Networking & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Expertise:** VPC Design • Network Troubleshooting • CI/CD • Infrastructure as Code • DevOps Patterns
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolás-núñez-álvarez-35ba661ba/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
+  <a href="mailto:nicolasnunezalvarez05@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50"/></a>
+</p>
 
 ---
 
@@ -51,12 +55,3 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 📜 **MCCR MasterBase® Certified Creator** (Nov 2025)
 
 ---
-
-## 🌐 Encuéntrame en:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-núñez-álvarez-35ba661ba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasnunezalvarez05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasNunez05)
-
----
-
