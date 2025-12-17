@@ -61,15 +61,10 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 
 <div align="center">
   
-## 🚀 Space Impact - Contribution Graph 🎮
-
-![Space Impact](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
-
-
-<div align="center">
-  
 ## 🎮 Tetris - Contribution Graph 🟦
 
 ![Tetris Animation](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/main/assets/github_tetris.gif)
 
 </div>
+
+---
