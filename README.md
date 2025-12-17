@@ -5,7 +5,7 @@
 Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquitectura cloud AWS** y **automatización de infraestructura**. Me apasiona diseñar soluciones escalables, seguras y optimizadas que agreguen valor real al negocio.
 
 🌱 **Aprendiendo:** Arquitecturas cloud avanzadas y mejores prácticas en AWS  
-💼 **Buscando:** Roles de Cloud Engineer o DevOps donde pueda seguir creciendo y aplicar mi conocimiento técnico  
+💼 **Busco:** Roles de Cloud Engineer o DevOps donde pueda seguir creciendo y aplicar mi conocimiento técnico  
 📧 **Contáctame:** [nicolasnunezalvarez05@gmail.com](mailto:nicolasnunezalvarez05@gmail.com)
 
 ---
