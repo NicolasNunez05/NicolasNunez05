@@ -58,3 +58,5 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 📜 **MCCR MasterBase® Certified Creator** (Nov 2025)
 
 ---
+
+![](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
