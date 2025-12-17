@@ -2,11 +2,11 @@
 
 ### ✨ ¡Hola! ✨
 
-Soy Nicolás Núñez, Ingeniero en Conectividad y Redes. Estoy especializado en arquitectura cloud AWS y automatización de infraestructura. Aquí encontrarás una colección de mis proyectos y contribuciones. Siéntete libre de explorar y no dudes en ponerte en contacto si tienes alguna pregunta o te gustaría colaborar en algo emocionante. 🚀
+Soy Nicolás Núñez, Ingeniero en Conectividad y Redes especializado en **arquitectura cloud AWS** y **automatización de infraestructura**. Me apasiona diseñar soluciones escalables que resuelven problemas reales y agregan valor al negocio. En este espacio comparto mis proyectos, experimentos y aprendizajes en cloud computing.
 
 🔧 **Actualmente preparando:** Certificación AWS Solutions Architect Associate  
-🌱 **Estoy aprendiendo:** Nuevas técnicas para arquitecturas cloud avanzadas  
-💼 **Busco colaborar en:** Proyectos cloud que impliquen soluciones innovadoras y creativas  
+🌱 **Estoy aprendiendo:** Arquitecturas serverless y optimización de costos en AWS  
+💼 **Busco colaborar en:** Proyectos de migración cloud y automatización de infraestructura  
 📧 **Puedes contactarme por correo electrónico en:** [nicolasnunezalvarez05@gmail.com](mailto:nicolasnunezalvarez05@gmail.com)
 
 ---
