@@ -58,11 +58,3 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 📜 **MCCR MasterBase® Certified Creator** (Nov 2025)
 
 ---
-
-<div align="center">
-  
-## 🚀 Space Impact - Contribution Graph 🎮
-
-![Space Impact](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
-
-</div>
