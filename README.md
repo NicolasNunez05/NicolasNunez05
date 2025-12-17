@@ -4,7 +4,7 @@
 
 Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquitectura cloud AWS** y **automatización de infraestructura**. Me apasiona diseñar soluciones escalables, seguras y optimizadas que agreguen valor real al negocio.
 
-🌱 **Aprendiendo:** Ciberseguridad, Kali Linux y arquitecturas serverless avanzadas  
+🌱 **Aprendiendo:** Arquitecturas cloud avanzadas y mejores prácticas en AWS  
 💼 **Buscando:** Roles de Cloud Engineer o DevOps donde pueda seguir creciendo y aplicar mi conocimiento técnico  
 📧 **Contáctame:** [nicolasnunezalvarez05@gmail.com](mailto:nicolasnunezalvarez05@gmail.com)
 
@@ -59,4 +59,12 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
 
 ---
 
+<div align="center">
+  
+## 🚀 Space Impact - Contribution Graph 🎮
 
+![Space Invaders](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
