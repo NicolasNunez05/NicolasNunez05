@@ -63,8 +63,6 @@ Ingeniero en Conectividad y Redes titulado de DuocUC, especializado en **arquite
   
 ## 🚀 Space Impact - Contribution Graph 🎮
 
-![Space Invaders](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Space Impact](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
 
 </div>
-
----
