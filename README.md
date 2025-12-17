@@ -1,5 +1,3 @@
-# 🚀 Cloud Engineer | AWS Solutions Architect | Infrastructure as Code Specialist
-
 ### ✨ ¡Hola! ✨
 
 Soy Nicolás Núñez, Ingeniero en Conectividad y Redes especializado en **arquitectura cloud AWS** y **automatización de infraestructura**. Me apasiona diseñar soluciones escalables que resuelven problemas reales y agregan valor al negocio. En este espacio comparto mis proyectos, experimentos y aprendizajes en cloud computing.
