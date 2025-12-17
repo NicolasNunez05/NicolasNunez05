@@ -48,16 +48,6 @@ Arquitectura completa de migración on-premise a AWS
 - Reducción proyectada de costos del 20%
 - Pipelines CI/CD con GitHub Actions
 
-**Tech Stack:** Terraform, AWS VPC, EC2, RDS, IAM, GitHub Actions
-
----
-
-🎓 **Educación & Certificaciones**
-
-🎓 Ingeniero en Conectividad y Redes - DuocUC Viña del Mar (2025)  
-📜 AWS Solutions Architect Associate - En progreso  
-📜 MCCR MasterBase® Certified Creator (Nov 2025)
-
 ---
 
 ![](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
