@@ -47,7 +47,6 @@ Plataforma e-commerce production-grade con integración de IA (Llama-3 + RAG) so
 - **CI/CD**: GitHub Actions con OIDC (sin AWS keys) + rolling updates automáticos + smoke tests
 - **Autoscaling**: HPA + Cluster Autoscaler con instancias EC2 Spot (ahorro 70%)
 - **Networking**: VPC multi-AZ + NLB + Ingress Controller + ExternalDNS
-- **$10 presupuesto mensual** con auto-destroy nocturno
 
 ---
 
