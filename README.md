@@ -36,6 +36,21 @@ Soy Nicolás Núñez, Ingeniero en Conectividad y Redes especializado en **arqui
 
 🎯 **Proyectos Destacados**
 
+**[GpuChile - Arquitectura Cloud-Native en AWS EKS con IA Generativa](https://github.com/NicolasNunez05/proyecto-kubernetes-escalable-eks)**
+
+Plataforma e-commerce production-grade con integración de IA (Llama-3 + RAG) sobre Kubernetes
+
+- **Stack completo**: EKS 1.31 + Terraform IaC + React/FastAPI microservices + PostgreSQL + Redis
+- **IA/ML**: Búsqueda semántica con pgvector (embeddings 768D) y gateway LLM para consultas en lenguaje natural
+- **Observabilidad**: Prometheus + Grafana con métricas persistentes (EBS gp3) + health checks deep
+- **Security**: IRSA para credenciales sin hardcoding + External Secrets Operator sincronizado con AWS Secrets Manager
+- **CI/CD**: GitHub Actions con OIDC (sin AWS keys) + rolling updates automáticos + smoke tests
+- **Autoscaling**: HPA + Cluster Autoscaler con instancias EC2 Spot (ahorro 70%)
+- **Networking**: VPC multi-AZ + NLB + Ingress Controller + ExternalDNS
+- **$10 presupuesto mensual** con auto-destroy nocturno
+
+---
+
 **[Migración Cloud PC Factory → AWS](https://github.com/NicolasNunez05/pcfactory-migration-aws)**
 
 Arquitectura completa de migración on-premise a AWS
@@ -45,7 +60,7 @@ Arquitectura completa de migración on-premise a AWS
 - Implementación de Security Groups, subredes públicas/privadas y RDS con backups automáticos
 - Reducción proyectada de costos del 20%
 - Pipelines CI/CD con GitHub Actions
-
+  
 ---
 
 ![](https://raw.githubusercontent.com/NicolasNunez05/NicolasNunez05/output/github-snake-dark.svg)
